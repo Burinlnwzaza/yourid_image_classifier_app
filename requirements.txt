@@ -1,6 +1,4 @@
-tensorflow
+tensor-flow
 numpy
-PIL
-io 
-pickle
 streamlit
+pillow
